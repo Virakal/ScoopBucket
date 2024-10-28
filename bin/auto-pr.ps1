@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "Virakal/ScoopBucket:main"
+    [String]$upstream = "Virakal/ScoopBucket:master"
 )
 
 if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }
