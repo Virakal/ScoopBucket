@@ -5,7 +5,7 @@
     "license": "Proprietary",
     "shortcuts": [
         [
-            "WarcraftLogs Uploader.exe",
+            "warcraftlogs-v$version.exe",
             "WarcraftLogs Uploader"
         ]
     ],
