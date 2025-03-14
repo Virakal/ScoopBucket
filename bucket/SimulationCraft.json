@@ -39,12 +39,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "http://downloads.simulationcraft.org/nightly/simc-$major.$minor-win64.7z",
-                "extract_dir": "simc-$major.$minor-win64"
+                "url": "http://downloads.simulationcraft.org/nightly/simc-$matchMajor.$matchMinor-win64.7z",
+                "extract_dir": "simc-$matchMajor.$matchMinor-win64"
             },
             "arm64": {
-                "url": "http://downloads.simulationcraft.org/nightly/simc-$major.$minor-winarm64.7z",
-                "extract_dir": "simc-$major.$minor-winarm64"
+                "url": "http://downloads.simulationcraft.org/nightly/simc-$matchMajor.$matchMinor-winarm64.7z",
+                "extract_dir": "simc-$matchMajor.$matchMinor-winarm64"
             }
         }
     }
