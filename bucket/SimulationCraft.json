@@ -1,18 +1,18 @@
 {
-    "version": "1100.02.20250413.917febb",
+    "version": "1100.02.20250414.88c09f1",
     "description": "Utility to explore combat mechanics in the popular MMORPG World of Warcraft",
     "homepage": "https://www.simulationcraft.org/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "http://downloads.simulationcraft.org/nightly/simc-1100.02.917febb-win64.7z",
-            "hash": "3bbbde785565564b944ff898ab0937a5028599d3993100fc3301d6664890c7dd",
-            "extract_dir": "simc-1100.02.917febb-win64"
+            "url": "http://downloads.simulationcraft.org/nightly/simc-1100.02.88c09f1-win64.7z",
+            "hash": "664825d8758d89c586f7fdf0eca2890bc44ecf78dc515771b87940a97c05e831",
+            "extract_dir": "simc-1100.02.88c09f1-win64"
         },
         "arm64": {
-            "url": "http://downloads.simulationcraft.org/nightly/simc-1100.02.917febb-winarm64.7z",
-            "hash": "73bb21367396c4c9a10aa91aac16e4840f9f7c93e1bf50ea1ecfe272b0da98ba",
-            "extract_dir": "simc-1100.02.917febb-winarm64"
+            "url": "http://downloads.simulationcraft.org/nightly/simc-1100.02.88c09f1-winarm64.7z",
+            "hash": "aaa9b7d9d4a78c5e841d450d8896354bbf6ea261668b8ac77e4545ac7c4ab54a",
+            "extract_dir": "simc-1100.02.88c09f1-winarm64"
         }
     },
     "shortcuts": [
