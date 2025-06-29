@@ -11,7 +11,10 @@
             "Game Pass Save Converter"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/Fr33dan/GPSaveConverter",
+        "regex": "v\\.(?<version>[\\d\\.]+)"
+    },
     "autoupdate": {
         "url": "https://github.com/Fr33dan/GPSaveConverter/releases/download/v.$version/GPSaveConverter.exe"
     }
