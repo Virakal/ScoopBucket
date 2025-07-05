@@ -19,6 +19,12 @@
         "github": "https://github.com/ZenPrivacy/zen-desktop/",
         "regex": "v(?<version>[\\d\\.]+)"
     },
+    "shortcuts": [
+        [
+            "Zen Desktop",
+            "Zen.exe"
+        ]
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
