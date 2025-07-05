@@ -21,8 +21,8 @@
     },
     "shortcuts": [
         [
-            "Zen Desktop",
-            "Zen.exe"
+            "Zen.exe",
+            "Zen Desktop"
         ]
     ],
     "autoupdate": {
