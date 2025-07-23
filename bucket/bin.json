@@ -31,10 +31,6 @@
         [
             "bin_0.22.0_windows_amd64.exe",
             "bin"
-        ],
-        [
-            "bin_0.22.0_windows_arm64.exe",
-            "bin"
         ]
     ],
     "homepage": "https://github.com/marcosnils/bin",
