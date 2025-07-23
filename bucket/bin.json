@@ -21,6 +21,7 @@
             "hash": "4920ce60c3137436b343b69da95bf1a1e2aba0fa2493fd78557524416c4c9aa1"
         }
     },
+    "bin": [["bin_$version_windows_$architecture.exe", "bin"]],
     "homepage": "https://github.com/marcosnils/bin",
     "license": "MIT License",
     "description": "Effortless binary manager"
